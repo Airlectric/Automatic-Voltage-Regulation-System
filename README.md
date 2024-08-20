@@ -207,7 +207,7 @@ This table provides a clear and concise overview of the system's behavior under 
 
 ## Proteus Simulation Setup
 
-![Proteus Setup](images/setup.JPEG)  
+![Proteus Setup](images/setup.JPG)  
 *Figure 1: Proteus simulation setup for the voltage regulator circuit.*
 
 ## Conclusion
